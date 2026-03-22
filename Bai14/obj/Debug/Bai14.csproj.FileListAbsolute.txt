@@ -1,0 +1,6 @@
+E:\BAITAPLINQ-20-2-2026\Bai14\bin\Debug\Bai14.exe.config
+E:\BAITAPLINQ-20-2-2026\Bai14\bin\Debug\Bai14.exe
+E:\BAITAPLINQ-20-2-2026\Bai14\bin\Debug\Bai14.pdb
+E:\BAITAPLINQ-20-2-2026\Bai14\obj\Debug\Bai14.csproj.CoreCompileInputs.cache
+E:\BAITAPLINQ-20-2-2026\Bai14\obj\Debug\Bai14.exe
+E:\BAITAPLINQ-20-2-2026\Bai14\obj\Debug\Bai14.pdb
