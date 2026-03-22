@@ -1,0 +1,7 @@
+E:\BAITAPLINQ-20-2-2026\Bai7\bin\Debug\Bai7.exe.config
+E:\BAITAPLINQ-20-2-2026\Bai7\bin\Debug\Bai7.exe
+E:\BAITAPLINQ-20-2-2026\Bai7\bin\Debug\Bai7.pdb
+E:\BAITAPLINQ-20-2-2026\Bai7\obj\Debug\Bai7.csproj.AssemblyReference.cache
+E:\BAITAPLINQ-20-2-2026\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+E:\BAITAPLINQ-20-2-2026\Bai7\obj\Debug\Bai7.exe
+E:\BAITAPLINQ-20-2-2026\Bai7\obj\Debug\Bai7.pdb
