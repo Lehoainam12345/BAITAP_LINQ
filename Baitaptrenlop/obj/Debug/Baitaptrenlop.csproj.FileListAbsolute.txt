@@ -1,0 +1,7 @@
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\bin\Debug\Baitaptrenlop.exe.config
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\bin\Debug\Baitaptrenlop.exe
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\bin\Debug\Baitaptrenlop.pdb
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\obj\Debug\Baitaptrenlop.csproj.AssemblyReference.cache
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\obj\Debug\Baitaptrenlop.csproj.CoreCompileInputs.cache
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\obj\Debug\Baitaptrenlop.exe
+E:\BAITAPLINQ-20-2-2026\Baitaptrenlop\obj\Debug\Baitaptrenlop.pdb
